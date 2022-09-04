@@ -8,5 +8,5 @@ while true; do
     git add .
     git commit -m "auto commit"
     git push
-    sleep 300
+    sleep 1800
 done
